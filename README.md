@@ -1,7 +1,4 @@
 # symfony-di-test
-Repository to test out symfony/dependency-injection
+Repository to test out various dependency injection strategies (in PHP).
 
-## How to use
-1. clone the repository
-2. run: `composer install`
-3. run: `run.php` (with at least PHP 8.1)
+Look at the different branches for the different approaches.
