@@ -2,6 +2,11 @@
   "name": "jan/dependency-injection-tests",
   "description": "Testing various dependency injection strategies",
   "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Jan\\DependencyInjectionTests\\": "src/"
+    }
+  },
   "authors": [
     {
       "name": "Jan Wennrich"
