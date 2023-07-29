@@ -17,5 +17,8 @@
     "platform": {
       "php": "8.1.21"
     }
+  },
+  "require": {
+    "aura/di": "^4.2"
   }
 }
