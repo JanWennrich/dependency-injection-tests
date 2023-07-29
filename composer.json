@@ -12,5 +12,13 @@
       "name": "Jan Wennrich"
     }
   ],
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "require": {
+    "illuminate/container": "^10.16.1"
+  },
+  "config": {
+    "platform": {
+      "php": "8.1.21"
+    }
+  }
 }
