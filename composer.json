@@ -1,6 +1,6 @@
 {
-    "name": "jan/symfony-di-test",
-    "description": "Composer package to test out symfony/dependency-injection",
+    "name": "jan/dependency-injection-tests",
+    "description": "Testing various dependency injection strategies",
     "type": "project",
     "require": {
         "php": "^8.1",
